@@ -1,0 +1,55 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#192236 ;
+}
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    padding: 10px;
+}
+
+.username{
+    margin-top: 30px;
+    width: 350px;
+    height: 38px;
+   margin-left: 450px;
+   background-color: rgba(69, 67, 67, 0.826);;
+   border-radius: 20px;
+   border: none;
+   color: bisque;
+}
+
+.password{
+    margin-top: 30px;
+    width: 350px;
+    height: 38px;
+   margin-left: 450px;
+   background-color:rgba(69, 67, 67, 0.826);
+   border-radius: 20px;
+   border: none;
+   color: bisque;
+   
+}
+
+
+button{
+    width: 250px;
+    background-color: #fff;
+    color: #192236;
+    border: none;
+    border-radius: 30px;
+    height: 40px;
+    margin-left: 500px;
+    margin-top: 40px;
+    font-weight: 800;
+    font-size: larger;
+}
+
